@@ -2,8 +2,8 @@
 Assignment 1 : Computer Networks (ENCS304)
 
 ## Submitted By 
-### Nishant Kumar
-### 2301730068
+### PAbitra Giri
+### 2301730081
 ### Btech CSE AIML
 
 
